@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  position: fixed;
+}
+
+.menu__item {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #393c41;
+}
+
+.menu__item:hover {
+  color: black;
+}

@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  outline: none;
+  box-sizing: border-box;
+  border: none;
+}
+
+input,
+input:active,
+input:focus {
+  outline: none;
+}
+
+a,
+a:visited,
+a:active,
+a:link {
+  text-decoration: none;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  color: #393c41;
+  width: 100%;
+}
+
+li {
+  list-style-type: none;
+}
